@@ -1,0 +1,30 @@
+<view style="background-color:#acd;display:block;margin:1px;">
+  <section style="height:10%;width:20%">
+    <block>
+      <details bindtap="categoryClick" style="width:10rpx">
+        <image src="{{sub.icon}}" mode="aspectFit" />
+        <text>3</text>
+      </details>
+    </block>
+  </section>
+
+   <section>
+    <block>
+      <details bindtap="categoryClick" style="width:10rpx">
+        <image src="{{sub.icon}}" mode="aspectFit" />
+        <text>3</text>
+      </details>
+    </block>
+  </section>
+
+   <section>
+    <block>
+      <details bindtap="categoryClick" style="width:10rpx">
+        <image src="{{sub.icon}}" mode="aspectFit" />
+        <text>3</text>
+      </details>
+    </block>
+  </section>
+
+  
+</view>
